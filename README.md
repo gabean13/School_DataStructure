@@ -1,9 +1,9 @@
 # DataStructure
 
 ## 실습 목차
-[[Week1] C언어 복습](#[Week1]-C언어-복습)
+[[Week1] C언어 복습](#[week1]-C언어-복습)
 
-[[Week2] C언어 복습](#[Week2]-C언어-복습)
+[[Week2] C언어 복습](#[week2]-C언어-복습)
 
 
 ## [Week1] C언어 복습
