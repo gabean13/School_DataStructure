@@ -3,6 +3,8 @@
 ## 실습 목차
 [[Week1] C언어 복습](#[Week1]-C언어-복습)
 
+[[Week2] C언어 복습](#[Week2]-C언어-복습)
+
 
 ## [Week1] C언어 복습
 
@@ -22,4 +24,16 @@
 ### 5번
 ![image](https://user-images.githubusercontent.com/108220648/222960382-a11034f7-7038-456b-bbaa-4786a30eb89a.png)
 
+### 6번
+![image](https://user-images.githubusercontent.com/108220648/222966148-f76ee57d-a2da-4204-947e-84fe041a5ba5.png)
 
+### 7번
+![image](https://user-images.githubusercontent.com/108220648/222966136-4a44ffa3-8ef7-4fbe-855e-5b233a9e2a07.png)
+
+### 8번
+![image](https://user-images.githubusercontent.com/108220648/222966112-e97c613c-38ab-4dec-8568-81bc8bb2331a.png)
+
+-----
+
+
+## [Week2] C언어 복습
