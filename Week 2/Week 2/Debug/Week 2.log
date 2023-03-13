@@ -1,0 +1,5 @@
+﻿  3-2.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 2\Week 2\3-2.c(15,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 2\Week 2\3-2.c(58,35): warning C4133: '=': incompatible types - from 'int *' to 'float *'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 2\Week 2\3-2.c(75,35): warning C4133: '=': incompatible types - from 'int *' to 'float *'
+  Week 2.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 2\Debug\Week 2.exe
