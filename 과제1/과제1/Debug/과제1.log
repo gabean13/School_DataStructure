@@ -1,0 +1,15 @@
+﻿  1-2.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(15,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(40,12): warning C4087: 'rand': declared with 'void' parameter list
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(40,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(52,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(58,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(78,12): warning C4087: 'rand': declared with 'void' parameter list
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(78,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(90,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(96,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(116,12): warning C4087: 'rand': declared with 'void' parameter list
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(116,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(128,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\과제1\1-2.c(134,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  과제1.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제1\Debug\과제1.exe
