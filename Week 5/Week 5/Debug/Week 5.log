@@ -1,0 +1,4 @@
+﻿  1.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 5\Week 5\1.c(63,11): warning C4098: 'add': 'void' function returning a value
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 5\Week 5\1.c(93,11): warning C4098: 'delete': 'void' function returning a value
+  Week 5.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 5\Debug\Week 5.exe
