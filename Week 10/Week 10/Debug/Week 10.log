@@ -1,0 +1,9 @@
+﻿  2.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Week 10\2.c(27,40): warning C4133: 'function': incompatible types - from 'int *' to 'char *'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Week 10\2.c(17,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Week 10\2.c(35,16): warning C4028: formal parameter 1 different from declaration
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Week 10\2.c(42,15): warning C4028: formal parameter 1 different from declaration
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Week 10\2.c(48,32): warning C4028: formal parameter 2 different from declaration
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Week 10\2.c(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Week 10\2.c(51,7): warning C4101: 'temp': unreferenced local variable
+  Week 10.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 10\Debug\Week 10.exe
