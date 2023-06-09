@@ -1,0 +1,5 @@
+﻿  2.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 13\Week 13\2.c(37,32): warning C4047: '==': 'Node *' differs in levels of indirection from 'int'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 13\Week 13\2.c(24,8): warning C4101: 'temp': unreferenced local variable
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 13\Week 13\2.c(80,12): warning C4047: 'return': 'Node *' differs in levels of indirection from 'int'
+  Week 13.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 13\Debug\Week 13.exe

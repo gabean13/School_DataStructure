@@ -1,0 +1,6 @@
+﻿  1.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제 5\과제 5\1.c(73,14): warning C4098: 'search': 'void' function returning a value
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제 5\과제 5\1.c(86,55): warning C4028: formal parameter 3 different from declaration
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제 5\과제 5\1.c(86,97): warning C4029: declared formal parameter list different from definition
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제 5\과제 5\1.c(123,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  과제 5.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제 5\Debug\과제 5.exe

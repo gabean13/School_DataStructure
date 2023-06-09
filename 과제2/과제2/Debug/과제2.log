@@ -1,0 +1,6 @@
+﻿  다중연결리스트.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제2\과제2\다중연결리스트.c(61,34): warning C4020: 'removeShare': too many actual parameters
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제2\과제2\다중연결리스트.c(140,75): warning C4029: declared formal parameter list different from definition
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제2\과제2\다중연결리스트.c(234): warning C4715: 'getElement': not all control paths return a value
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제2\과제2\다중연결리스트.c(275): warning C4715: 'getGroup': not all control paths return a value
+  과제2.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제2\Debug\과제2.exe

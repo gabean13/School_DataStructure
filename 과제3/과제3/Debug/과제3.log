@@ -1,0 +1,4 @@
+﻿  1.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제3\과제3\1.c(74,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제3\과제3\1.c(96,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  과제3.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\과제3\Debug\과제3.exe

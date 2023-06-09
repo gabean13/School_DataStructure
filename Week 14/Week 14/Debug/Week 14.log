@@ -1,0 +1,7 @@
+﻿  a.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 14\Week 14\a.c(27,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 14\Week 14\a.c(73,14): warning C4098: 'search': 'void' function returning a value
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 14\Week 14\a.c(110,30): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 14\Week 14\a.c(112,50): warning C4098: 'printNode': 'void' function returning a value
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 14\Week 14\a.c(115,49): warning C4098: 'printNode': 'void' function returning a value
+  Week 14.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 14\Debug\Week 14.exe

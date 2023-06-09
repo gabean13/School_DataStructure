@@ -1,0 +1,5 @@
+﻿  2.c
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 7\Week 7\2.c(19,19): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 7\Week 7\2.c(20,19): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 7\Week 7\2.c(84,19): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+  Week 7.vcxproj -> C:\Users\gazet\OneDrive\문서\대학교\3-1\자료구조\실습코드\Week 7\Debug\Week 7.exe
